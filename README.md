@@ -1,5 +1,7 @@
 # node-js-getting-started
 
+[![CircleCI](https://circleci.com/gh/twlabs/node-js-getting-started.svg?style=svg)](https://circleci.com/gh/twlabs/node-js-getting-started)
+
 This example is based on the code from the repository https://github.com/heroku/node-js-getting-started.
 
 **The objective is to show how to integrate a depedency check tool within an Heroku application and integrate it with a CI.**
