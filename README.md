@@ -1,5 +1,9 @@
 # node-js-getting-started
 
+This example is based on the code from the repository https://github.com/heroku/node-js-getting-started.
+
+**The objective is to show how to integrate a depedency check tool within an Heroku application and integrate it with a CI.**
+
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
 This application supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
